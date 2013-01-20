@@ -1,6 +1,7 @@
 # A simple Mahjong engine written in Haskell
 
 Generate a game graph (Board) by:
+
 	genGame
 	
 Board is without a show function at the moment. 
