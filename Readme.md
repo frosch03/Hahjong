@@ -2,5 +2,5 @@
 
 Generate a LayOrder by:
 
-  let x = makeRandPoss randoms positions
-  layOrd x
+    let x = makeRandPoss randoms positions
+    layOrd x
